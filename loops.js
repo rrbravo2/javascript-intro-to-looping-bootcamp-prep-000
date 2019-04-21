@@ -9,9 +9,6 @@ function forLoop(array) {
   return array
 } 
 
-var sample_arr = [];
-console.log (forLoop(sample_arr));
-
 function whileLoop(n) {
   let countdown = n 
   
@@ -27,7 +24,7 @@ function maybeTrue () {
 
 function doWhileLoop (array) {
  do {
-   array.pop;
+   array.pop();
  } while (array.length >0 && maybeTrue())
  return array
 } 
