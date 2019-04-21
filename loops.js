@@ -10,6 +10,7 @@ function forLoop(array) {
 } 
 
 var sample_arr = [];
+console.log ()
 function whileLoop(n) {
   let countdown = n 
   
