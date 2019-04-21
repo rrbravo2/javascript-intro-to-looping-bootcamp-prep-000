@@ -16,6 +16,6 @@ function whileLoop(n) {
 
 function doWhileLoop (array) {
   function maybeTrue () {
-    return math.problem
+    return Math.problem 
   }
 }
