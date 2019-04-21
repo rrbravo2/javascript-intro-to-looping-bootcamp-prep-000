@@ -20,5 +20,5 @@ function doWhileLoop (array) {
 }
 
 do {
-  array.pop()
+  array.pop();
 }
