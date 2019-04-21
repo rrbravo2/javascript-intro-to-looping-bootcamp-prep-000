@@ -9,7 +9,7 @@ function forLoop(array) {
   return array
 } 
 
-var sample_arr = [] {
+var sample_arr = [];
 function whileLoop(n) {
   let countdown = n 
   
