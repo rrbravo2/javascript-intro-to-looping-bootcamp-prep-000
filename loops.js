@@ -27,7 +27,6 @@ function doWhileLoop (num) {
  let i=0
  do {
    console.log("I run once regardless.");
- } while (++i < num)
- return array
+ } while (++i < num);
 } 
  
